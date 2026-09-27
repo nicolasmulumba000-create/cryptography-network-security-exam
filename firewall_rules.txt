@@ -1,0 +1,27 @@
+Firewall Configuration
+======================
+
+Records Server:
+[INSERT IP]
+
+Guest Network:
+[INSERT NETWORK]
+
+Authorised Staff Network:
+[INSERT NETWORK]
+
+Service:
+[INSERT SERVICE]
+
+Port:
+[INSERT PORT]
+
+
+Rule 1:
+Block guest network access to the records server.
+
+Rule 2:
+Permit authorised staff network access to the specified service.
+
+Rule 3:
+Block other inbound access to the specified service.
