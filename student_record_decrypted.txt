@@ -1,4 +1,0 @@
-Student ID: SAMPLE001
-Name: Test Student
-Programme: Electronics and Telecommunication Technology
-Year: 4
